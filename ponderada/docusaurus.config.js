@@ -63,7 +63,7 @@ const config = {
         title: 'Início',
         logo: {
           alt: 'Curriculo Logo',
-          src: 'img/logoProgramacao.png',
+          src: 'img/logoP.png',
         },
         items: [],
       },
