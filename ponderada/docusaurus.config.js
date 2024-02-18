@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Currículo Isabelle Oliveira',
   tagline: ' Graduanda de Engenharia de Computação ',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logoP.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
